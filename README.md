@@ -11,8 +11,8 @@
 ![Dashboard Screenshot](images/img4.png)
 ![Dashboard Screenshot](images/img5.png)
 ![Dashboard Screenshot](images/img6.png)
-![Dashboard Screenshot](images/img7.png)
-**These images show me making the folder able to share files.**
+![Dashboard Screenshot](images/img7.png)<br>
+**These images show me making the folder able to share files.**<br><br>
 
 ![Dashboard Screenshot](images/img8.png)
 ![Dashboard Screenshot](images/img9.png)
