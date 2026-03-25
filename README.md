@@ -1,6 +1,6 @@
 # Setting up shared folder in server
 
-## In this repo I am creating a folder for the client and server to share files between each other**<br><br>
+## In this repo I am creating a folder for the client and server to share files between each other<br><br>
 
 ---
 ---
