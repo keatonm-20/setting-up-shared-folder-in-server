@@ -5,9 +5,8 @@
 ![Dashboard Screenshot](images/img1.png)
 ![Dashboard Screenshot](images/img2.png)
 ### Creating Folder
-**I am creating the folder for the client to be able to send and receive files between client and server computers**
-<br>
-<br>
+**I am creating the folder for the client to be able to send and receive files between client and server computers**<br><br>
+
 ![Dashboard Screenshot](images/img3.png)
 ![Dashboard Screenshot](images/img4.png)
 ![Dashboard Screenshot](images/img5.png)
