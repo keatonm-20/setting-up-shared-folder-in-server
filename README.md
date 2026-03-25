@@ -1,19 +1,19 @@
 # Setting up shared folder in server
 
-**In this repo I am creating a folder in 
+**In this repo I am creating a folder for the client and server to share files between each other**<br><br>
 ---
 ![Dashboard Screenshot](images/img1.png)
 ![Dashboard Screenshot](images/img2.png)
 ### Creating Folder
-**I am creating the folder for the client to be able to send and receive files between client and server computers**<br><br><br>
----
+**I am creating the folder for the client to be able to send and receive files between client and server computers**
+<br><br><br>---
 ![Dashboard Screenshot](images/img3.png)
 ![Dashboard Screenshot](images/img4.png)<br>
 ![Dashboard Screenshot](images/img5.png)
 ![Dashboard Screenshot](images/img6.png)
 ![Dashboard Screenshot](images/img7.png)<br>
-**These images show me making the folder able to share files.**<br><br><br>
----
+**These images show me making the folder able to share files.**
+---<br><br><br>
 ![Dashboard Screenshot](images/img8.png)
 ![Dashboard Screenshot](images/img9.png)
 ![Dashboard Screenshot](images/img10.png)
