@@ -7,14 +7,14 @@
 ---
 
 ### Creating Folder
-**I am creating the folder for the client to be able to send and receive files between client and server computers**
+**I am creating the folder for the client to be able to send and receive files between client and server computers**<br>
 ![Dashboard Screenshot](images/img1.png)
 ![Dashboard Screenshot](images/img2.png)<br><br><br>
 
 ---
 ---
 ---
-**These images show me making the folder able to share files.**
+**These images show me making the folder able to share files.**<br>
 ![Dashboard Screenshot](images/img3.png)
 ![Dashboard Screenshot](images/img4.png)<br>
 ![Dashboard Screenshot](images/img5.png)
@@ -34,7 +34,7 @@
 ---
 ---
 
-**Here, I am testing the folder to see if the test file and test folder are going to show up in the "Shared Files" folder on server when I add files from the client computer. (It was successful)**
+**Here, I am testing the folder to see if the test file and test folder are going to show up in the "Shared Files" folder on server when I add files from the client computer. (It was successful)**<br>
 ![Dashboard Screenshot](images/img11.png)
 ![Dashboard Screenshot](images/img12.png)
 ![Dashboard Screenshot](images/img13.png)<br><br><br>
@@ -42,6 +42,6 @@
 ---
 ---
 
-**I went back to change the permissions a little and full control to certain users and less control to others**
+**I went back to change the permissions a little and full control to certain users and less control to others**<br>
 ![Dashboard Screenshot](images/img14.png)
 ![Dashboard Screenshot](images/img15.png)
