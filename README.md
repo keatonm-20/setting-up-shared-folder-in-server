@@ -1,11 +1,5 @@
 # Setting up shared folder in server
 
-## In this repo I am creating a folder for the client and server to share files between each other.<br><br>
-
----
----
----
-
 ### Creating Folder
 **I am creating the folder for the client to be able to send and receive files between client and server computers**<br><br>
 ![Dashboard Screenshot](images/img1.png)
@@ -43,6 +37,6 @@
 ---
 ---
 
-**I went back to change the permissions a little and full control to certain users and less control to others**<br><br>
+**I went back to change the permissions a little and give full control to certain users and less control to others.**<br><br>
 ![Dashboard Screenshot](images/img14.png)
 ![Dashboard Screenshot](images/img15.png)
