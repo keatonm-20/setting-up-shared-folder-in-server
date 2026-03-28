@@ -1,5 +1,12 @@
 # Windows Server File Sharing & Permissions Configuration (Active Directory Lab)
 
+## 🚀 Skills Demonstrated (Overview)
+- Setting NTFS and share permissions
+- Configuring file shares on Windows Server
+- Enforcing least privilege and role-based access
+
+---
+
 ### Creating Folder
 **I am creating the folder for the client to be able to send and receive files between client and server computers**<br><br>
 ![Dashboard Screenshot](images/img1.png)
