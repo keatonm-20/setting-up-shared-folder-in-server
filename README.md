@@ -1,4 +1,4 @@
-# Setting up shared folder in server
+# Windows Server File Sharing & Permissions Configuration (Active Directory Lab)
 
 ### Creating Folder
 **I am creating the folder for the client to be able to send and receive files between client and server computers**<br><br>
