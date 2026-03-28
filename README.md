@@ -7,7 +7,7 @@
 
 ---
 ---
----
+
 **These images show me making the folder able to share files.**<br><br>
 ![Dashboard Screenshot](images/img3.png)
 ![Dashboard Screenshot](images/img4.png)<br>
@@ -15,7 +15,6 @@
 ![Dashboard Screenshot](images/img6.png)
 ![Dashboard Screenshot](images/img7.png)<br><br><br>
 
----
 ---
 ---
 
@@ -26,14 +25,12 @@
 
 ---
 ---
----
 
 **Here, I am testing the folder to see if the test file and test folder are going to show up in the "Shared Files" folder on server when I add files from the client computer. (It was successful)**<br><br>
 ![Dashboard Screenshot](images/img11.png)
 ![Dashboard Screenshot](images/img12.png)
 ![Dashboard Screenshot](images/img13.png)<br><br><br>
 
----
 ---
 ---
 
